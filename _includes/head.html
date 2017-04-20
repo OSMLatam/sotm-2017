@@ -6,26 +6,26 @@
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <meta name="description" content="The Latin American OpenStreetMap Conference">
   <meta name="author" content="OpenStreetMap Latinoamérica">
-  <meta property="og:image" content="{{ site.url }}/images/sotmlatam_dark_card.jpg">
+  <meta property="og:image" content="{{ site.website }}/images/sotmlatam_dark_card.jpg">
   <meta property="og:site_name" content="State of the Map Latam 2017">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="State of the Map Latam 2017">
+  <meta property="og:title" content="{{ site.title }}">
   <meta property="og:description"
   content="La Conferencia Latinoamericana de OpenStreetMap. 29 Nov - 02 Dic, Lima, Perú.">
-  <meta property="og:url" content="{{ site.url }}">
+  <meta property="og:url" content="{{ site.website }}">
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@osmlatam">
-  <meta property="twitter:image" content="{{ site.url }}/images/sotmlatam_dark_card.jpg">
-  <meta name="twitter:title" content="State of the Map Latam 2017">
+  <meta property="twitter:image" content="{{ site.website }}/images/sotmlatam_dark_card.jpg">
+  <meta name="twitter:title" content="{{ site.title }}">
   <meta name="twitter:description"
   content="La conferencia latinoamericana de OpenStreetMap. 29 Nov - 02 Dic, Lima, Perú.">
-  <meta name="twitter:url" content="{{ site.url }}">
+  <meta name="twitter:url" content="{{ site.website }}">
 
 <!-- Translations -->
-<link hreflang="en" href="{{ site.url }}/en/" rel="alternate">
-<link hreflang="es" href="{{ site.url }}" rel="alternate">
-<link hreflang="pt-br" href="{{ site.url }}/pt/" rel="alternate">
+<link hreflang="en" href="{{ site.website }}/en/" rel="alternate">
+<link hreflang="es" href="{{ site.website }}" rel="alternate">
+<link hreflang="pt-br" href="{{ site.website }}/pt/" rel="alternate">
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -44,6 +44,6 @@
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css">
   <script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
 
-  <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+  <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
 
 </head>

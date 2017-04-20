@@ -94,6 +94,8 @@ section {
     border-bottom: 1px solid #fff; }
     .intro h1 img {
       display: block;
+      margin-left: auto;
+      margin-right: auto;
       margin-bottom: 20px;
       padding-bottom: 10px;
       border-bottom: 1px solid #fff; }

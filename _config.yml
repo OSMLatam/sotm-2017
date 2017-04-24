@@ -29,6 +29,9 @@ t:
       venue:
         label: Venue
         url: /en/#venue
+      register:
+        label: Register
+        url: http://osmpe.ourproject.org/inscripcion-inscricao-registration/
   es:
     language_name: Español
     menu:
@@ -38,6 +41,9 @@ t:
       venue:
         label: Local
         url: /#venue
+      register:
+        label: Regístrese
+        url: http://osmpe.ourproject.org/inscripcion-inscricao-registration/
   pt:
     language_name: Português
     menu:
@@ -47,3 +53,6 @@ t:
       venue:
         label: Local
         url: /pt/#venue
+      register:
+        label: Inscreva-se
+        url: http://osmpe.ourproject.org/inscripcion-inscricao-registration/

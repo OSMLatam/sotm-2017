@@ -82,31 +82,35 @@ section {
 ---------------------------------------------- */
 .intro {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), #272b30), url("/images/sp-bg-compressed.jpg"); }
+  .intro img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #fff; }
   .intro h1 {
     margin-left: auto;
     margin-right: auto;
-    width: 422px;
     line-height: 30px;
     font-size: 20px;
     padding-bottom: 20px;
     margin-bottom: 20px;
     padding-bottom: 13px;
     border-bottom: 1px solid #fff; }
-    .intro h1 img {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid #fff; }
+    .intro h1 span {
+      display: block; }
+    .intro h1 span::before {
+      content: attr(data-text); }
   .intro .about-button {
     display: table;
     margin: 0 auto;
     table-layout: fixed;
     width: 100%; }
     .intro .about-button .btn-item {
-      display: table-cell;
-      vertical-align: middle; }
+      line-height: 70px; }
+      .intro .about-button .btn-item .btn {
+        margin-top: 0px !important; }
 
 #join-us .thumbnail {
   padding: 20px;

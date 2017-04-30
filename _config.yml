@@ -32,6 +32,9 @@ t:
       register:
         label: Register
         url: http://osmpe.ourproject.org/inscripcion-inscricao-registration/
+      wiki:
+        label: Wiki
+        url: http://wiki.openstreetmap.org/wiki/State_Of_The_Map_Latam_2017
   es:
     language_name: Español
     menu:
@@ -44,6 +47,9 @@ t:
       register:
         label: Regístrese
         url: http://osmpe.ourproject.org/inscripcion-inscricao-registration/
+      wiki:
+        label: Wiki
+        url: http://wiki.openstreetmap.org/wiki/Es:State_Of_The_Map_Latam_2017
   pt:
     language_name: Português
     menu:
@@ -56,3 +62,6 @@ t:
       register:
         label: Inscreva-se
         url: http://osmpe.ourproject.org/inscripcion-inscricao-registration/
+      wiki:
+        label: Wiki
+        url: http://wiki.openstreetmap.org/wiki/Pt:State_Of_The_Map_Latam_2017

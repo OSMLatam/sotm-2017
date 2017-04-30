@@ -275,3 +275,31 @@ h3 {
 .program-app {
   font-size: 16px;
 }
+
+/** SOTM 2017 LIMA **/
+
+a {
+  color: #48A9C1;
+}
+
+a:focus, a:hover {
+  color: #427E8C;
+}
+
+.btn-default {
+  color: #48A9C1;
+  border-top-color: #48A9C1;
+  border-right-color: #48A9C1;
+  border-bottom-color: #48A9C1;
+  border-left-color: #48A9C1;
+}
+
+.btn-default.focus, .btn-default:hover {
+  color: #FFFFFF;
+  background-color: #48A9C1;
+  border-top-color: #48A9C1;
+  border-right-color: #48A9C1;
+  border-bottom-color: #48A9C1;
+  border-left-color: #48A9C1;
+}
+

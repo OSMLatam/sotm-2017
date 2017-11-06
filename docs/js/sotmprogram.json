@@ -1,0 +1,145 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "date": {"en": "Wednesday - November 29", "es": "Miércoles - 29 de Noviembre", "pt": "Quarta-feira - 29 de Novembro"},
+      "activities": [
+	{"hour": "08:30", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "09:00", "type": "interval", "message": {"en": "Opening", "es": "Apertura", "pt": "Abertura"}},
+	{"hour": "09:15", "type": 2, "talk": 1, "location": 2, "duration": "3h 15min"},
+	{"hour": "12:30", "type": "interval", "message": {"en": "Lunch", "es": "Almuerzo", "pt": "Almoço"}},
+	{"hour": "13:30", "type": 2, "talk": 2, "location": 2, "duration": "2h 30min"},
+	{"hour": "16:00", "type": 2, "talk": 3, "location": 2, "duration": "1h"},
+	{"hour": "17:00", "type": 2, "talk": 4, "location": 2, "duration": "30min"}
+      ]
+    },
+    {
+      "id": 2,
+      "date": {"en": "Thursday - November 30", "es": "Jueves - 30 de Noviembre", "pt": "Quinta-feira - 30 de Novembro"},
+      "activities": [
+	{"hour": "09:00", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "09:45", "type": "interval", "message": {"en": "Opening", "es": "Apertura", "pt": "Abertura"}},
+	{"hour": "09:55", "type": 1, "talk": 5, "location": 1, "duration": "5min"},
+	{"hour": "10:00", "type": 1, "talk": 6, "location": 1, "duration": "30min"},
+	{"hour": "10:30", "type": 2, "talk": 7, "location": 2, "duration": "1h"},
+	{"hour": "11:30", "type": 3, "talk": 8, "location": 1, "duration": "55min"},
+	{"hour": "12:25", "type": 1, "talk": 9, "location": 1, "duration": "5min"},
+	{"hour": "12:30", "type": 1, "talk": 10, "location": 1, "duration": "30min"},
+	{"hour": "13:00", "type": 1, "talk": 11, "location": 1, "duration": "30min"},
+	{"hour": "13:30", "type": "interval", "message": {"en": "Lunch", "es": "Almuerzo", "pt": "Almoço"}},
+	{"hour": "14:30", "type": 1, "talk": 12, "location": 1, "duration": "30min"},
+	{"hour": "15:00", "type": 3, "talk": 13, "location": 1, "duration": "55min"},
+	{"hour": "15:55", "type": 1, "talk": 14, "location": 1, "duration": "5min"},
+	{"hour": "16:00", "type": 1, "talk": 15, "location": 1, "duration": "30min"},
+	{"hour": "16:30", "type": 1, "talk": 16, "location": 1, "duration": "30min"},
+	{"hour": "17:00", "type": 1, "talk": 17, "location": 1, "duration": "30min"}
+      ]
+    },
+    {
+      "id": 3,
+      "date": {"en": "Friday - December 1", "es": "Viernes - 1 de Diciembre", "pt": "Sexta-feira - 1 de Dezembro"},
+      "activities": [
+	{"hour": "09:00", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "09:45", "type": 1, "talk": 18, "location": 1, "duration": "5min"},
+	{"hour": "09:50", "type": 1, "talk": 19, "location": 1, "duration": "30min"},
+	{"hour": "10:20", "type": 1, "talk": 20, "location": 1, "duration": "30min"},
+	{"hour": "10:50", "type": 2, "talk": 21, "location": 2, "duration": "1h"},
+	{"hour": "11:50", "type": 1, "talk": 22, "location": 1, "duration": "30min"},
+	{"hour": "12:20", "type": 1, "talk": 23, "location": 1, "duration": "30min"},
+	{"hour": "12:50", "type": 1, "talk": 24, "location": 1, "duration": "30min"},
+	{"hour": "13:20", "type": "interval", "message": {"en": "Lunch", "es": "Almuerzo", "pt": "Almoço"}},
+	{"hour": "14:20", "type": 1, "talk": 25, "location": 1, "duration": "10min"},
+	{"hour": "14:30", "type": 1, "talk": 26, "location": 1, "duration": "30min"},
+	{"hour": "15:00", "type": 1, "talk": 27, "location": 1, "duration": "30min"},
+	{"hour": "15:30", "type": 3, "talk": 28, "location": 1, "duration": "1h"},
+	{"hour": "16:30", "type": 3, "talk": 29, "location": 1, "duration": "1h"}
+      ]
+    },
+    {
+      "id": 4,
+      "date": {"en": "Saturday - December 2", "es": "Sabado - 2 de Diciembre", "pt": "Sábado - 2 de Dezembro"},
+      "activities": [
+	{"hour": "08:30", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "09:00", "type": "interval", "message": {"en": "Opening", "es": "Apertura", "pt": "Abertura"}},
+	{"hour": "09:15", "type": 2, "talk": 30, "location": 2, "duration": "3h 15min"},
+	{"hour": "12:30", "type": "interval", "message": {"en": "Lunch", "es": "Almuerzo", "pt": "Almoço"}},
+	{"hour": "13:30", "type": 2, "talk": 31, "location": 2, "duration": "30min"},
+	{"hour": "16:00", "type": 2, "talk": 32, "location": 2, "duration": "1h"},
+	{"hour": "17:00", "type": 2, "talk": 33, "location": 2, "duration": "30min"},
+	{"hour": "17:30", "type": "interval", "message": {"en": "Closing", "es": "Clausura", "pt": "Encerramento"}}
+      ]
+    }
+  ],
+  "locations": [
+    {"id": 1, "name": {"en": "Auditorium", "es": "Auditorio", "pt": "Auditório"}},
+    {"id": 2, "name": {"en": "Laboratory", "es": "Laboratorio", "pt": "Laboratório"}}
+  ],
+  "speakers": [
+    {"id": 1, "name": "Johnatan Rupire", "country" : 1},
+    {"id": 2, "name": "Alfonso Torres", "country" : 1},
+    {"id": 3, "name": "Omar Vega Ramos", "country" : 1},
+    {"id": 4, "name": "Selene Yang", "country" : 2},
+    {"id": 5, "name": "Céline Jacquin", "country" : 3},
+    {"id": 6, "name": "Ronald Osorio", "country" : 1},
+    {"id": 7, "name": "Sandra Hernández", "country" : 3},
+    {"id": 8, "name": "Miriam Gonzales", "country" : 3},
+    {"id": 9, "name": "César Alfaro Mendivel", "country" : 1},
+    {"id": 10, "name": "Luis Alanya Ortega", "country" : 1},
+    {"id": 11, "name": "Daniel Quisbert", "country" : 4},
+    {"id": 12, "name": "Julio Costa Zambelli", "country" : 5},
+    {"id": 13, "name": "Philipp Kandal", "country" : 6},
+    {"id": 14, "name": "Luis Vega Panta", "country" : 1},
+    {"id": 15, "name": "Juliana Hernández", "country" : 7},
+    {"id": 16, "name": "Fabian Brondi", "country" : 1}
+  ],
+  "talks": [
+    {"id": 1, "title": "Taller de mapeo en laboratorios de informática.", "speakers": [3]},
+    {"id": 2, "title": "Mapeo con Fieldpaper y apps móviles dentro del campus u otro lugar cercano.", "speakers": [1]},
+    {"id": 3, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática.", "speakers": [2]},
+    {"id": 4, "title": "Evaluación de la jornada de mapeo.", "speakers": [1]},
+    {"id": 5, "title": "Presentación del eje temático Mujeres & OSM", "speakers": [1]},
+    {"id": 6, "title": "Geochicas y OSM: Cerrar la brecha de género es una ruta que recién empieza a ser mapeada.", "speakers": [4]},
+    {"id": 7, "title": "#CallesVioletas: Mapeo participativo del espacio hostil para las mujeres.", "speakers": [5]},
+    {"id": 8, "title": "Mesa redonda: Participación de la mujer en las comunidades digitales en general y OSM en particular", "speakers": []},
+    {"id": 9, "title": "Presentación del eje temático Movilidad y Accesibilidad", "speakers": [1]},
+    {"id": 10, "title": "Estudios de accesibilidad a nivel ciudad para la planeación del transporte con OpenTripPlanner.", "speakers": [5]},
+    {"id": 11, "title": "Experiencias de mapeo ciudadano para la evaluación de las condiciones de movilidad peatoanal en México.", "speakers": [5]},
+    {"id": 12, "title": "OSM y la accesibilidad reducida: Experiencia Asoc.Kipullaxta", "speakers": [6]},
+    {"id": 13, "title": "Mesa redonda: Movilidad y Accesibilidad", "speakers": []},
+    {"id": 14, "title": "Presentación del eje temático Software y Hardware para uso cartográfico", "speakers": [1]},
+    {"id": 15, "title": "Mapeo colaborativo y fotomapping como herramientas de soporte a las actividades del Mapeatón para determinar la accesibilidad a los parques urbanos de Toluca y Metepec.", "speakers": [7]},
+    {"id": 16, "title": "Desarrollo de cartografía participativa en apoyo a acontecimientos globales y dando soluciones a problemas locales: El caso de la Universidad Autónoma de México.", "speakers": [7]},
+    {"id": 17, "title": "Mejorando datos de caminos y carreteras usando OpenStreetCam.", "speakers": [8]},
+    {"id": 18, "title": "Presentación del eje temático Software y Hardware para uso cartográfico", "speakers": [1]},
+    {"id": 19, "title": "Garantizando la calidad de los datos agregados a OpenStreetMap.", "speakers": [9]},
+    {"id": 20, "title": "Mapbox y OpenStreetMap.", "speakers": [10]},
+    {"id": 21, "title": "Instalación y configuración del mapa OSM para Offline en Linux.", "speakers": [11]},
+    {"id": 22, "title": "Construyendo un GPS Datalogger de Bajo Costo.", "speakers": [12]},
+    {"id": 23, "title": "Making maps with artificial intelligence (AI).", "speakers": [13]},
+    {"id": 24, "title": "Inventario Georreferenciado con OSM", "speakers": [14]},
+    {"id": 25, "title": "Presentación del eje temático Gestión de riesgos y ordenamiento territorial", "speakers": [1]},
+    {"id": 26, "title": "Maperos Campesinos - Herramientas Lúdicas para aprender, enseñar y fortalecer habilidades técnicas de cartografía en personas del campo", "speakers": [15]},
+    {"id": 27, "title": "Generación de Cartografía mediante RPAS en apoyo a la respuesta ante desastres: Nuestra experiencia con OSM.", "speakers": [16]},
+    {"id": 28, "title": "Mesa redonda: Ordenamiento territorial y gestión de riesgos", "speakers": []},
+    {"id": 29, "title": "Mesa redonda: Datos abiertos y gobierno abierto", "speakers": []},
+    {"id": 30, "title": "Mapeo en los laboratorios de informática.", "speakers": [3]},
+    {"id": 31, "title": "Mapeo con Fieldpaper y Apps móviles dentro del campus u otro lugar cercano.", "speakers": [1]},
+    {"id": 32, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática.", "speakers": [2]},
+    {"id": 33, "title": "Evaluación y presentación del resultado de la jornada.", "speakers": [2]}
+  ],
+  "types": [
+    {"id": 1, "title": {"en": "Talk", "es": "Charla", "pt": "Palestra"}},
+    {"id": 2, "title": {"en": "Workshop", "es": "Taller", "pt": "Oficina"}},
+    {"id": 3, "title": {"en": "Round table", "es": "Mesa redonda", "pt": "Mesa redonda"}},
+    {"id": 4, "title": {"en": "Mapathon", "es": "Mapaton", "pt": "Mapaton"}}
+  ],
+  "countries": [
+    {"id": 1, "name": "Perú", "code": "PE"},
+    {"id": 2, "name": "Argentina", "code": "AR"},
+    {"id": 3, "name": "México", "code": "MX"},
+    {"id": 4, "name": "Bolivia", "code": "BO"},
+    {"id": 5, "name": "Chile", "code": "CL"},
+    {"id": 6, "name": "Alemania", "code": "DE"},
+    {"id": 7, "name": "Colombia", "code": "CO"}
+  ]
+}

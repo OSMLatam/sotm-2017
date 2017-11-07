@@ -93,7 +93,7 @@
     {"id": 16, "name": "Fabian Brondi", "country" : 1}
   ],
   "talks": [
-    {"id": 1, "title": "Taller de mapeo en laboratorios de informática. - Equipo OSM LatAm", "speakers": [8]},
+    {"id": 1, "title": "Taller de mapeo en laboratorios de informática.", "speakers": [8]},
     {"id": 2, "title": "Mapeo con Fieldpaper y apps móviles dentro del campus u otro lugar cercano. - Equipo OSM LatAm", "speakers": []},
     {"id": 3, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática. - Equipo OSM LatAm", "speakers": []},
     {"id": 4, "title": "Evaluación de la jornada de mapeo.", "speakers": [2]},

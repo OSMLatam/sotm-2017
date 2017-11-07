@@ -93,10 +93,10 @@
     {"id": 16, "name": "Fabian Brondi", "country" : 1}
   ],
   "talks": [
-    {"id": 1, "title": "Taller de mapeo en laboratorios de informática.", "speakers": [8]},
-    {"id": 2, "title": "Mapeo con Fieldpaper y apps móviles dentro del campus u otro lugar cercano.", "speakers": [1]},
-    {"id": 3, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática.", "speakers": [2]},
-    {"id": 4, "title": "Evaluación de la jornada de mapeo.", "speakers": [1]},
+    {"id": 1, "title": "Taller de mapeo en laboratorios de informática. - Equipo OSM LatAm", "speakers": [8]},
+    {"id": 2, "title": "Mapeo con Fieldpaper y apps móviles dentro del campus u otro lugar cercano. - Equipo OSM LatAm", "speakers": []},
+    {"id": 3, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática. - Equipo OSM LatAm", "speakers": []},
+    {"id": 4, "title": "Evaluación de la jornada de mapeo.", "speakers": [2]},
     {"id": 5, "title": "Presentación del eje temático Mujeres & OSM", "speakers": []},
     {"id": 6, "title": "Geochicas y OSM: Cerrar la brecha de género es una ruta que recién empieza a ser mapeada.", "speakers": [4]},
     {"id": 7, "title": "#CallesVioletas: Mapeo participativo del espacio hostil para las mujeres.", "speakers": [5]},
@@ -122,9 +122,9 @@
     {"id": 27, "title": "Generación de Cartografía mediante RPAS en apoyo a la respuesta ante desastres: Nuestra experiencia con OSM.", "speakers": [16]},
     {"id": 28, "title": "Mesa redonda: Ordenamiento territorial y gestión de riesgos", "speakers": []},
     {"id": 29, "title": "Mesa redonda: Datos abiertos y gobierno abierto", "speakers": []},
-    {"id": 30, "title": "Mapeo en los laboratorios de informática.", "speakers": [3]},
-    {"id": 31, "title": "Mapeo con Fieldpaper y Apps móviles dentro del campus u otro lugar cercano.", "speakers": [1]},
-    {"id": 32, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática.", "speakers": [2]},
+    {"id": 30, "title": "Mapeo en los laboratorios de informática. - Equipo OSM LatAm", "speakers": []},
+    {"id": 31, "title": "Mapeo con Fieldpaper y Apps móviles dentro del campus u otro lugar cercano. - Equipo OSM LatAm", "speakers": []},
+    {"id": 32, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática. - Equipo OSM LatAm", "speakers": []},
     {"id": 33, "title": "Evaluación y presentación del resultado de la jornada.", "speakers": [2]}
   ],
   "types": [

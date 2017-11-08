@@ -51,9 +51,9 @@
 	{"hour": "14:20", "type": 1, "talk": 34, "location": 1, "duration": "30min"},
 	{"hour": "14:50", "type": 1, "talk": 25, "location": 1, "duration": "10min"},
 	{"hour": "15:00", "type": 1, "talk": 26, "location": 1, "duration": "30min"},
-	{"hour": "15:00", "type": 1, "talk": 27, "location": 1, "duration": "30min"},
-	{"hour": "15:30", "type": 3, "talk": 28, "location": 1, "duration": "1h"},
-	{"hour": "16:30", "type": 3, "talk": 29, "location": 1, "duration": "1h"}
+	{"hour": "15:30", "type": 1, "talk": 27, "location": 1, "duration": "30min"},
+	{"hour": "16:00", "type": 3, "talk": 28, "location": 1, "duration": "1h"},
+	{"hour": "17:00", "type": 3, "talk": 29, "location": 1, "duration": "1h"}
       ]
     },
     {

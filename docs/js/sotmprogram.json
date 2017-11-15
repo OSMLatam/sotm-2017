@@ -4,7 +4,7 @@
       "id": 1,
       "date": {"en": "Wednesday - November 29", "es": "Miércoles - 29 de Noviembre", "pt": "Quarta-feira - 29 de Novembro"},
       "activities": [
-	{"hour": "08:30", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "08:30", "type": "interval", "message": {"en": "Registration", "es": "Registro de participantes", "pt": "Registro de participantes"}},
 	{"hour": "09:00", "type": "interval", "message": {"en": "Opening", "es": "Apertura", "pt": "Abertura"}},
 	{"hour": "09:15", "type": 2, "talk": 1, "location": 2, "duration": "3h 15min"},
 	{"hour": "12:30", "type": "interval", "message": {"en": "Lunch", "es": "Almuerzo", "pt": "Almoço"}},
@@ -17,29 +17,30 @@
       "id": 2,
       "date": {"en": "Thursday - November 30", "es": "Jueves - 30 de Noviembre", "pt": "Quinta-feira - 30 de Novembro"},
       "activities": [
-	{"hour": "09:00", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "09:00", "type": "interval", "message": {"en": "Registration of participants", "es": "Registro de participantes", "pt": "Registro de participantes"}},
 	{"hour": "09:45", "type": "interval", "message": {"en": "Opening", "es": "Apertura", "pt": "Abertura"}},
-	{"hour": "09:55", "type": 1, "talk": 5, "location": 1, "duration": "5min"},
-	{"hour": "10:00", "type": 2, "talk": 7, "location": 2, "duration": "1h"},
-	{"hour": "11:00", "type": 1, "talk": 6, "location": 1, "duration": "30min"},
-	{"hour": "11:30", "type": 3, "talk": 8, "location": 1, "duration": "55min"},
-	{"hour": "12:25", "type": 1, "talk": 9, "location": 1, "duration": "5min"},
-	{"hour": "12:30", "type": 1, "talk": 10, "location": 1, "duration": "30min"},
-	{"hour": "13:00", "type": 1, "talk": 11, "location": 1, "duration": "30min"},
+	{"hour": "09:55", "type": 1, "talk": 35, "location": 1, "duration": "30min"},
+	{"hour": "10:25", "type": 1, "talk": 5, "location": 1, "duration": "5min"},
+	{"hour": "10:30", "type": 2, "talk": 7, "location": 2, "duration": "1h"},
+	{"hour": "11:30", "type": 1, "talk": 6, "location": 1, "duration": "30min"},
+	{"hour": "12:00", "type": 3, "talk": 8, "location": 1, "duration": "55min"},
+	{"hour": "12:55", "type": 1, "talk": 9, "location": 1, "duration": "5min"},
+	{"hour": "13:00", "type": 1, "talk": 10, "location": 1, "duration": "30min"},
 	{"hour": "13:30", "type": "interval", "message": {"en": "Lunch", "es": "Almuerzo", "pt": "Almoço"}},
-	{"hour": "14:30", "type": 1, "talk": 12, "location": 1, "duration": "30min"},
-	{"hour": "15:00", "type": 3, "talk": 13, "location": 1, "duration": "55min"},
-	{"hour": "15:55", "type": 1, "talk": 14, "location": 1, "duration": "5min"},
-	{"hour": "16:00", "type": 1, "talk": 15, "location": 1, "duration": "30min"},
-	{"hour": "16:30", "type": 1, "talk": 16, "location": 1, "duration": "30min"},
-	{"hour": "17:00", "type": 1, "talk": 17, "location": 1, "duration": "30min"}
+	{"hour": "14:30", "type": 1, "talk": 11, "location": 1, "duration": "30min"},
+	{"hour": "15:00", "type": 1, "talk": 12, "location": 1, "duration": "30min"},
+	{"hour": "15:30", "type": 3, "talk": 13, "location": 1, "duration": "55min"},
+	{"hour": "16:25", "type": 1, "talk": 14, "location": 1, "duration": "5min"},
+	{"hour": "16:30", "type": 1, "talk": 15, "location": 1, "duration": "30min"},
+	{"hour": "17:00", "type": 1, "talk": 16, "location": 1, "duration": "30min"},
+	{"hour": "17:30", "type": 1, "talk": 17, "location": 1, "duration": "30min"}
       ]
     },
     {
       "id": 3,
       "date": {"en": "Friday - December 1", "es": "Viernes - 1 de Diciembre", "pt": "Sexta-feira - 1 de Dezembro"},
       "activities": [
-	{"hour": "09:00", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "09:00", "type": "interval", "message": {"en": "Registration of participants", "es": "Registro de participantes", "pt": "Registro de participantes"}},
 	{"hour": "09:45", "type": 1, "talk": 18, "location": 1, "duration": "5min"},
 	{"hour": "09:50", "type": 1, "talk": 19, "location": 1, "duration": "30min"},
 	{"hour": "10:20", "type": 1, "talk": 20, "location": 1, "duration": "30min"},
@@ -60,7 +61,7 @@
       "id": 4,
       "date": {"en": "Saturday - December 2", "es": "Sabado - 2 de Diciembre", "pt": "Sábado - 2 de Dezembro"},
       "activities": [
-	{"hour": "08:30", "type": "interval", "message": {"en": "Registration", "es": "Registro", "pt": "Credenciamento"}},
+	{"hour": "08:30", "type": "interval", "message": {"en": "Registration of participants", "es": "Registro de participantes", "pt": "Registro de participantes"}},
 	{"hour": "09:00", "type": "interval", "message": {"en": "Opening", "es": "Apertura", "pt": "Abertura"}},
 	{"hour": "09:15", "type": 2, "talk": 30, "location": 2, "duration": "3h 15min"},
 	{"hour": "12:30", "type": "interval", "message": {"en": "Lunch", "es": "Almuerzo", "pt": "Almoço"}},
@@ -95,7 +96,7 @@
     {"id": 17, "name": "Marino Carhuapoma", "country" : 1}
   ],
   "talks": [
-    {"id": 1, "title": "Taller de mapeo en laboratorios de informática", "speakers": [8]},
+    {"id": 1, "title": "Taller de mapeo en laboratorios de informática - Equipo OSM LatAm", "speakers": []},
     {"id": 2, "title": "Mapeo con Fieldpapers y apps móviles dentro del campus u otro lugar cercano - Equipo OSM LatAm", "speakers": []},
     {"id": 3, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática - Equipo OSM LatAm", "speakers": []},
     {"id": 4, "title": "Evaluación de la jornada de mapeo", "speakers": [2]},
@@ -128,7 +129,8 @@
     {"id": 31, "title": "Mapeo con Fieldpapers y Apps móviles dentro del campus u otro lugar cercano - Equipo OSM LatAm", "speakers": []},
     {"id": 32, "title": "Cargando y editando los datos desde la PC en el laboratorio de informática - Equipo OSM LatAm", "speakers": []},
     {"id": 33, "title": "Evaluación y presentación del resultado de la jornada", "speakers": [2]},
-    {"id": 34, "title": "Integración de OSM en el sistema de información catastral", "speakers": [17]}
+    {"id": 34, "title": "Integración de OSM en el sistema de información catastral", "speakers": [17]},
+    {"id": 35, "title": "Conferencia inaugural", "speakers": [13]}
   ],
   "types": [
     {"id": 1, "title": {"en": "Talk", "es": "Charla", "pt": "Palestra"}},

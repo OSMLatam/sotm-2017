@@ -31,8 +31,8 @@
 	{"hour": "15:00", "type": 1, "talk": 12, "location": 1, "duration": "30min"},
 	{"hour": "15:30", "type": 3, "talk": 13, "location": 1, "duration": "55min"},
 	{"hour": "16:25", "type": 1, "talk": 14, "location": 1, "duration": "5min"},
-	{"hour": "16:30", "type": 1, "talk": 15, "location": 1, "duration": "30min"},
-	{"hour": "17:00", "type": 1, "talk": 16, "location": 1, "duration": "30min"},
+	{"hour": "16:30", "type": 1, "talk": 16, "location": 1, "duration": "30min"},
+	{"hour": "17:00", "type": 1, "talk": 15, "location": 1, "duration": "30min"},
 	{"hour": "17:30", "type": 1, "talk": 17, "location": 1, "duration": "30min"}
       ]
     },

@@ -128,7 +128,7 @@
     {"id": 29, "title": "Mesa redonda: Datos abiertos y gobierno abierto, \"infraestructura de datos espaciales del Perú\"", "speakers": [2, 22, 23, 24]},
     {"id": 30, "title": "Mapeo en los laboratorios de informática - Equipo OSM LatAm", "speakers": []},
     {"id": 31, "title": "Mapeo con Fieldpapers y apps móviles dentro del campus u otro lugar cercano - Equipo OSM LatAm", "speakers": []},
-    {"id": 32, "title": "Edición de OSM: cargando y editando los datos desde la PC y/o teléfono - Equipo OSM LatAm", "speakers": []},
+    {"id": 32, "title": "Edición de OSM: cargando y editando los datos desde la PC y/o teléfono - Equipo OSM LatAm", "speakers": [3]},
     {"id": 33, "title": "Evaluación y presentación del resultado de la jornada - Equipo OSM LatAm", "speakers": []},
     {"id": 34, "title": "Integración de OSM en el sistema de información catastral", "speakers": [17]},
     {"id": 35, "title": "Conferencia magistral", "speakers": [13]},

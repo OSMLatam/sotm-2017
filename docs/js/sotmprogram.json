@@ -95,7 +95,8 @@
     {"id": 24, "name": "David Albujar", "country" : 1, "organization" : "Municipalidad de Miraflores"},
     {"id": 25, "name": "Koke Contreras", "country" : 1, "organization" : "Salvemos las Huacas"},
     {"id": 26, "name": "Pedro Espinoza", "country" : 1, "organization" : "Complejo Arqueológico Mateo Salado"},
-    {"id": 27, "name": "Céline Jacquin", "country" : 3, "organization" : "Repubikla"}
+    {"id": 27, "name": "Céline Jacquin", "country" : 3, "organization" : "Repubikla"},
+    {"id": 28, "name": "Giovanna Osorio", "country" : 1, "organization" : "Asoc. Kipullaxta"}
   ],
   "talks": [
     {"id": 1, "title": "Taller de mapeo en laboratorios de informática - Equipo OSM LatAm", "speakers": []},
@@ -110,7 +111,7 @@
     {"id": 10, "title": "Estudios de accesibilidad a nivel ciudad para la planeación del transporte con OpenTripPlanner", "speakers": [5]},
     {"id": 11, "title": "Experiencias de mapeo ciudadano para la evaluación de las condiciones de movilidad peatonal en México", "speakers": [5]},
     {"id": 12, "title": "OSM y la accesibilidad reducida: Experiencia Asociación Kipullaxta", "speakers": [6]},
-    {"id": 13, "title": "Mesa redonda: Movilidad y accesibilidad, \"la ciudad es para todos\"", "speakers": [6, 19, 27]},
+    {"id": 13, "title": "Mesa redonda: Movilidad y accesibilidad, \"la ciudad es para todos\"", "speakers": [19, 27, 28]},
     {"id": 14, "title": "Eje temático: Software y Hardware para uso cartográfico", "speakers": []},
     {"id": 15, "title": "Mapeo colaborativo y fotomapping como herramientas de soporte a las actividades del Mapeatón para determinar la accesibilidad a los parques urbanos de Toluca y Metepec", "speakers": [7]},
     {"id": 16, "title": "Desarrollo de cartografía participativa en apoyo a acontecimientos globales y dando soluciones a problemas locales: El caso de la Universidad Autónoma de México", "speakers": [7]},

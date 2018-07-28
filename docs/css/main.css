@@ -74,7 +74,7 @@ body {
 /* Index
 ---------------------------------------------- */
 .intro {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.3), #272b30), url("/images/sp-bg-compressed.jpg"); }
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), #272b30), url("/sotm-2017/images/sp-bg-compressed.jpg"); }
   .intro img {
     display: block;
     margin-left: auto;

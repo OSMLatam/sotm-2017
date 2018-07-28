@@ -9,7 +9,7 @@
   });
 
   App.controller('sotm', ['$scope', '$http', function ($scope, $http) {
-    $http.get('/js/sotmprogram.json').then(function(json_f) {
+    $http.get("/sotm-2017/js/sotmprogram.json").then(function(json_f) {
       $scope.countries = json_f.data.countries;
       $scope.days = json_f.data.days;
       $scope.locations = json_f.data.locations;

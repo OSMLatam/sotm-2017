@@ -7,12 +7,12 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 destination: docs
 url: "http://state.osmlatam.org" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/sotm-2017" # the subpath of your site, e.g. /blog
 email: "info@osmlatam.org"
 facebook_page: "osmlatam"
 twitter_username: "osmlatam"
 github_username:
-website: "http://state.osmlatam.org"
+website: "https://osmlatam.github.io/sotm-2017/"
 exclude: [README.md]
 
 # Build settings
@@ -34,10 +34,10 @@ t:
         url: /en/#venue
       register:
         label: Register
-        url: http://osmpe.ourproject.org/inscripcion-inscricao-registration/
+        url: https://osmpe.ourproject.org/inscripcion-inscricao-registration/
       wiki:
         label: Wiki
-        url: http://wiki.openstreetmap.org/wiki/State_Of_The_Map_Latam_2017
+        url: https://wiki.openstreetmap.org/wiki/State_Of_The_Map_Latam_2017
   es:
     language_name: Español
     menu:
